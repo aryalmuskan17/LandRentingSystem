@@ -1,0 +1,106 @@
+Rent Invoice
+Date and Time: 2024-04-23 17:39:58.148586
+Customer Name: opx
+Kitta Number: 103
+City/District: Pokhara Airport
+Direction: South
+Area: 10 anna
+Duration of Rent: 6 months
+Total Amount: NPR 1200000
+Transaction Code: lSJfWSvq
+Rent Invoice
+Date and Time: 2024-04-23 17:40:09.581341
+Customer Name: opx
+Kitta Number: 105
+City/District: Pokhara Lamachaur
+Direction: East
+Area: 5 anna
+Duration of Rent: 6 months
+Total Amount: NPR 600000
+Transaction Code: xRlf1pau
+Return Invoice
+Date and Time: 2024-04-23 17:40:37.026395
+Customer Name: opx
+Kitta Number: 103
+City/District: Pokhara Airport
+Direction: South
+Area: 10 anna
+Duration of Rent: 8 months
+Total Amount: NPR 1680000.0
+Fine: NPR 80000.0
+Transaction Code: lSJfWSvq
+Return Invoice
+Date and Time: 2024-04-23 17:41:33.875099
+Customer Name: opx
+Kitta Number: 105
+City/District: Pokhara Lamachaur
+Direction: East
+Area: 5 anna
+Duration of Rent: 6 months
+Total Amount: NPR 600000
+Transaction Code: xRlf1pau
+
+                    Techno Property Nepal
+                Hospital Chowk-10, Pokhara, Nepal
+    VAT No: 1769                       Ph. No:99999999999
+
+Name: opx                              Date: 2024-04-24
+Transaction Code: 6CNMcGzu
+--------------------------------------------------------------------------------------------------------
+| Kitta Number | Customer Name   | City/District | Direction | Area | Duration of Rent | Total Amount |
+--------------------------------------------------------------------------------------------------------
+
+| 103           | opx             | Pokhara Airport | South     | 10   | 6                | 1200000       |
+--------------------------------------------------------------------------------------------------------
+                                        Taxable Total: NPR 1200000
+                                                VAT: NPR 156000.00
+                                            Grand Total: NPR 1356000.0
+
+                    Techno Property Nepal
+                Hospital Chowk-10, Pokhara, Nepal
+    VAT No: 1769                       Ph. No:99999999999
+
+Name: opx                              Date: 2024-04-24
+Transaction Code: wOMwdnM6
+--------------------------------------------------------------------------------------------------------
+| Kitta Number | Customer Name   | City/District | Direction | Area | Duration of Rent | Total Amount |
+--------------------------------------------------------------------------------------------------------
+
+| 105           | opx             | Pokhara Lamachaur | East      | 5    | 6                | 600000        |
+--------------------------------------------------------------------------------------------------------
+                                        Taxable Total: NPR 600000
+                                                VAT: NPR 78000.00
+                                            Grand Total: NPR 678000.0
+
+                    Techno Property Nepal
+                Hospital Chowk-10, Pokhara, Nepal
+    VAT No: 1769                       Ph. No:99999999999
+
+Name: opx                              Date: 2024-04-24
+Transaction Code: 6CNMcGzu
+--------------------------------------------------------------------------------------------------------
+| Kitta Number | Customer Name   | City/District | Direction | Area | Duration of Rent | Total Amount |
+--------------------------------------------------------------------------------------------------------
+
+| 103           | opx             | Pokhara Airport | South     | 10   | 8                | 1680000.0     |
+| Fine                                            | 80000.0       |
+--------------------------------------------------------------------------------------------------------
+                                        Taxable Total: NPR 1760000.0
+                                                VAT: NPR 228800.00
+                                            Grand Total: NPR 1988800.0
+
+                    Techno Property Nepal
+                Hospital Chowk-10, Pokhara, Nepal
+    VAT No: 1769                       Ph. No:99999999999
+
+Name: opx                              Date: 2024-04-24
+Transaction Code: wOMwdnM6
+--------------------------------------------------------------------------------------------------------
+| Kitta Number | Customer Name   | City/District | Direction | Area | Duration of Rent | Total Amount |
+--------------------------------------------------------------------------------------------------------
+
+| 105           | opx             | Pokhara Lamachaur | East      | 5    | 6                | 600000        |
+--------------------------------------------------------------------------------------------------------
+                                        Taxable Total: NPR 600000
+                                                VAT: NPR 78000.00
+                                            Grand Total: NPR 678000.0

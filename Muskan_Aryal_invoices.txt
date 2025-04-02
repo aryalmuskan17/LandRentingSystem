@@ -1,0 +1,65 @@
+
+                                        Techno Property Nepal
+                                    Hospital Chowk-10, Pokhara, Nepal
+VAT No: 1769                                                                            Ph. No:99999999999
+
+Name: Muskan Aryal                                                                       Date: 2024-04-24
+Transaction Code: PJBbPHkb
+--------------------------------------------------------------------------------------------------------
+| Kitta Number | Customer Name   | City/District | Direction | Area | Duration of Rent | Total Amount |
+--------------------------------------------------------------------------------------------------------
+
+| 105          | Muskan Aryal    | Pokhara Lamachaur | East      | 5     | 10         | 1000000        |
+--------------------------------------------------------------------------------------------------------
+                                                                        Taxable Total: NPR 1000000
+                                                                                  VAT: NPR 130000.00
+                                                                          Grand Total: NPR 1130000.0
+
+                                        Techno Property Nepal
+                                    Hospital Chowk-10, Pokhara, Nepal
+VAT No: 1769                                                                            Ph. No:99999999999
+
+Name: Muskan Aryal                                                                       Date: 2024-04-24
+Transaction Code: F2VecU24
+--------------------------------------------------------------------------------------------------------
+| Kitta Number | Customer Name   | City/District | Direction | Area | Duration of Rent | Total Amount |
+--------------------------------------------------------------------------------------------------------
+
+| 103          | Muskan Aryal    | Pokhara Airport   | South     | 10    | 8          | 1600000        |
+--------------------------------------------------------------------------------------------------------
+                                                                        Taxable Total: NPR 1600000
+                                                                                  VAT: NPR 208000.00
+                                                                          Grand Total: NPR 1808000.0
+
+                                        Techno Property Nepal
+                                    Hospital Chowk-10, Pokhara, Nepal
+VAT No: 1769                                                                            Ph. No:99999999999
+
+Name: Muskan Aryal                                                                       Date: 2024-04-24
+Transaction Code: PJBbPHkb
+--------------------------------------------------------------------------------------------------------
+| Kitta Number | Customer Name   | City/District | Direction | Area | Duration of Rent | Total Amount |
+--------------------------------------------------------------------------------------------------------
+
+| 105          | Muskan Aryal    | Pokhara Lamachaur | East      | 5     | 12         | 1260000.0      |
+| Fine                                                                                 | 60000.0       |
+--------------------------------------------------------------------------------------------------------
+                                                                        Taxable Total: NPR 1320000.0
+                                                                                  VAT: NPR 171600.00
+                                                                          Grand Total: NPR 1491600.0
+
+                                        Techno Property Nepal
+                                    Hospital Chowk-10, Pokhara, Nepal
+VAT No: 1769                                                                            Ph. No:99999999999
+
+Name: Muskan Aryal                                                                       Date: 2024-04-24
+Transaction Code: F2VecU24
+--------------------------------------------------------------------------------------------------------
+| Kitta Number | Customer Name   | City/District | Direction | Area | Duration of Rent | Total Amount |
+--------------------------------------------------------------------------------------------------------
+
+| 103          | Muskan Aryal    | Pokhara Airport   | South     | 10    | 8          | 1600000        |
+--------------------------------------------------------------------------------------------------------
+                                                                        Taxable Total: NPR 1600000
+                                                                                  VAT: NPR 208000.00
+                                                                          Grand Total: NPR 1808000.0

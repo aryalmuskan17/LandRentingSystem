@@ -1,0 +1,7 @@
+101, Kathmandu Durbar Marg, North, 4, 300000, Available
+102, Pokhara Lakeside, East, 5, 400000, Available
+103, Pokhara Airport, South, 10, 200000, Available
+104, Pokhara Birauta, West, 7, 150000, Available
+105, Pokhara Lamachaur, East, 5, 100000, Available
+106, Pokhara Lekhnath, South, 10, 80000, Available
+107, Lalitpur, South, 10, 1700000, Available
